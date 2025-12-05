@@ -6,7 +6,7 @@ export default function Topbar(){
   return (
     <header className="topbar">
       <div className="welcome">
-        <h3>Good morning, <span className="username">Johnson</span></h3>
+        <h3>Good morning, <span className="username">Oluwatosin</span></h3>
       </div>
 
       <div className="top-actions">
