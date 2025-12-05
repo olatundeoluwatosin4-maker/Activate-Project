@@ -1,0 +1,51 @@
+.topbar{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  background:#fff;
+  padding:18px 24px;
+  border-bottom:1px solid #eef2f6;
+}
+
+.welcome h3 {
+  font-size:16px;
+  color:#111827;
+  font-weight:600
+}
+.username {
+  color:#679fd2;
+}
+
+.top-actions {
+  display:flex;
+  align-items:center;
+  gap:18px
+}
+
+.search {
+  display:flex;
+  gap:8px;
+  align-items:center
+}
+
+.search input {
+  padding:10px 12px;
+  border:1px solid #e6e9ef;
+  border-radius:8px;
+  outline:none;
+  width:260px;
+}
+.search button {
+  padding:9px 14px;
+  border-radius:8px;
+  border:none;
+  background:#679fd2;
+  color:#fff;
+  cursor:pointer;
+}
+.topbar-logo {
+  width:34px;
+  height:34px;
+  object-fit:contain;
+  border-radius:6px
+}
