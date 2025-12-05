@@ -5,7 +5,6 @@ import Topbar from './Component/Topbar';
 import KPICards from './Component/KPICards';
 import ProductGrid from './Component/ProductGrid';
 import Cart from './Component/Cart';
-import BuyerLogin from "./Login/BuyerLogin";
 
 
 import img1 from './assets/Image1.png.png';
